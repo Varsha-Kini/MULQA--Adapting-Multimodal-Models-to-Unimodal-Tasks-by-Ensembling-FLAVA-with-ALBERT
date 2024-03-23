@@ -15,4 +15,4 @@ This research paper, presents an innovative study on enhancing the capabilities 
 FLAVA baseline model - https://github.com/facebookresearch/multimodal/tree/main/examples/flava
 
 
-Project Report - https://github.com/anushkakamath/MULQA-Adapting-Multimodal-Models-to-Unimodal-Tasks-by-Ensembling-FLAVA-with-ALBERT/blob/eff513421859c4fd120429c0d0d7ad4975633a3b/FinalReport.pdf
+Project Report - https://github.com/Varsha-Kini/MULQA--Adapting-Multimodal-Models-to-Unimodal-Tasks-by-Ensembling-FLAVA-with-ALBERT/blob/bb77ad367d6732244cfd4da7bdf4edda313da72f/FinalReport.pdf
