@@ -1,15 +1,18 @@
 # MULQA: Adapting Multimodal Models to Unimodal Tasks by Ensembling FLAVA with ALBERT
 
-## Team members: 
+## CSCI 566 Project: Deep Learning and its Applications
 
+## Team members: 
 1.Akash Gujju
 2.Anushka Kamath
 3.Trisha Mandal
 4.Varsha Kini
 
 ## Abstract:
-In this paper, we investigate the performance of the FLAVA model, a powerful vision and language alignment model, and its ensembled version with ALBERT, called MULQA, on unimodal tasks. While FLAVA is designed primarily for multimodal tasks such as visual question answering (VQA) and image captioning, evaluating its performance on text-only tasks is essential to assess language and context understanding capabilities. We compare the traditional FLAVA and MULQA model on several VQA text-only tasks, which serve as benchmarks for evaluating the models' performance in understanding language without visual input. Our analysis of the models' performance on these tasks can provide insights into the effectiveness of multimodal models in unimodal tasks and guide future research in developing more accurate and versatile models capable of handling a wide range of linguistic features and contexts.
+This research paper, presents an innovative study on enhancing the capabilities of multimodal models in performing unimodal tasks. By integrating FLAVA, a foundational language and vision alignment model, with ALBERT, a lite version of BERT focused on efficient language understanding, the research aims to explore the potential of these combined models in tasks that require understanding either text or vision solely, rather than both. The paper extensively compares traditional FLAVA and the ensembled MULQA model across various datasets, demonstrating that the adapted model can significantly improve performance in language-only and vision-only tasks. This adaptation not only suggests a promising direction for future research in multimodal learning but also contributes to the understanding of how such models can be optimized for specific unimodal applications. The experiments cover a range of datasets, from TextVQA and CommonsenseQA to image classification datasets like Fashion MNIST and SVHN, showcasing the model's versatility.
 
-We worked on top of the baseline found in public domain namely
 
-FLAVA(https://github.com/facebookresearch/multimodal/tree/main/examples/flava)
+FLAVA baseline model - https://github.com/facebookresearch/multimodal/tree/main/examples/flava
+
+
+Project Report - https://github.com/anushkakamath/MULQA-Adapting-Multimodal-Models-to-Unimodal-Tasks-by-Ensembling-FLAVA-with-ALBERT/blob/eff513421859c4fd120429c0d0d7ad4975633a3b/FinalReport.pdf
